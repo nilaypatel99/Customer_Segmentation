@@ -1,5 +1,5 @@
 # Customer Segmentation Analysis
-![1_oEu4EK58DQTlkZtW_toDOg](https://github.com/user-attachments/assets/9d1ed18c-0fbc-4a57-9756-bd2eb675165a)
+                                ![1_oEu4EK58DQTlkZtW_toDOg](https://github.com/user-attachments/assets/9d1ed18c-0fbc-4a57-9756-bd2eb675165a)
 
 
 
