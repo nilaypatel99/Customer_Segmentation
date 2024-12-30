@@ -1,4 +1,6 @@
 # Customer Segmentation Analysis
+![download](https://github.com/user-attachments/assets/f575895f-c2f9-45e6-a421-01a4eef244e3)
+
 
 ## Overview
 This analysis segments customers based on their **Age**, **Income**, and **Spending Score**. The goal is to identify distinct customer segments for targeted marketing strategies.
