@@ -4,7 +4,7 @@
 This analysis segments customers based on their **Age**, **Income**, and **Spending Score**. The goal is to identify distinct customer segments for targeted marketing strategies.
 
 ## Data Summary:
-The dataset contains **1,000 rows** with customer data, including their demographic information and spending habits. The data was clustered into **5 segments** using the **K-Means** algorithm.
+The dataset contains **1,00+ rows** with customer data, including their demographic information and spending habits. The data was clustered into **5 segments** using the **K-Means** algorithm.
 
 ### Key Findings:
 
