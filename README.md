@@ -1,5 +1,6 @@
 # Customer Segmentation Analysis
-![download](https://github.com/user-attachments/assets/f575895f-c2f9-45e6-a421-01a4eef244e3)
+![1_oEu4EK58DQTlkZtW_toDOg](https://github.com/user-attachments/assets/9d1ed18c-0fbc-4a57-9756-bd2eb675165a)
+
 
 
 ## Overview
